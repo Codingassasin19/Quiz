@@ -34,7 +34,7 @@ body{
     opacity: 1;
     z-index: 5;
     pointer-events: auto;
-    transform: translate(-50%, -50%) scale(0.7);
+    transform: translate(-50%, -50%) scale(0.5);
 }
 
 .start_btn button{
